@@ -1,9 +1,9 @@
 {
-  "name": "My Domain Sample",
-  "description": "A simple example to brand your Salesforce My Domain",
-  "repository": "https://github.com/salesforceidentity/MyDomain-Sample",
+  "name": "Capital Value Domain",
+  "description": "Capital Value brand for the Salesforce My Domain",
+  "repository": "https://github.com/florisvang/Capital-Value-Domain",
   "website": "https://www.salesforce.com/platform/identity",
-  "logo": "https://login.salesforce.com/logos/Salesforce/Salesforce/logo.png",  
+  "logo": "https://login.salesforce.com/logos/Salesforce/Salesforce/logo.png",
   "keywords": ["salesforce"],
   "success_url": "/",
   "env": {
